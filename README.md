@@ -1,16 +1,7 @@
 # taxcalculator
 
-A new Flutter project.
+This application is designed to help individuals and accountants in Nepal to calculate income tax quickly and accurately. The app is especially useful for individuals who want to plan their finances and understand how much they need to set aside for taxes.
 
-## Getting Started
+### screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image description](assets/tax_calculator.png)
